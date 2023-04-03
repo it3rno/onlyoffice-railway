@@ -1,3 +1,3 @@
-# OnlyOffice for Heroku
-OnlyOffice for Heroku allows you to quickly deploy OnlyOffice to Heroku. Please note that OnlyOffice for Heroku does not include OnlyOffice Mail Server.
-<br/><br/>[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cedkim/onlyoffice-heroku/tree/master)
+# OnlyOffice for Railway
+OnlyOffice for Heroku allows you to quickly deploy OnlyOffice to Railway.
+<br/><br/>[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/M226xB?referralCode=rVmP6n)
